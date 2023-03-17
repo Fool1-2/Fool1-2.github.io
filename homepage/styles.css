@@ -1,0 +1,65 @@
+#Essay {
+    width: 80%;
+    background-color: #;
+    margin: auto;
+}
+#Essay p{
+    color: #20f3fe;
+
+}
+body {
+    background-color: Black;
+}
+#Main{
+    background-image: url("Church Ave Station.png");
+    height: 100vh;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#carouselExampleCaptions{
+    width: 300px;
+    margin: auto;
+}
+h1 {
+    text-align: center;
+    color: Yellow;
+}
+html/homepage/index.html: body {
+
+}
+#FinalityMain a{
+    font-size: 32px;
+    color: #47e7ff;
+    text-align: center;
+}
+#link-container {
+    text-align: center;
+}
+#FinalityMain {
+    background-color: #050a3d;
+}
+.column {
+    float: left;
+    width: 50%;
+    }
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
+#Centered {
+    align: center;
+    text-align: center;
+}
+#map {
+    margin: center;
+}
+#JourneyMain img{
+    width: 100%;
+}
+#JourneyMain h4{
+    color: red;
+}
